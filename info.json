@@ -1,11 +1,11 @@
 {
-    "version": "1.0.0",
-    "package": "https://github.com/divanasi/fk-grafik-designer/releases/download/v1.0.0/fk-grafik-designer.zip",
-    "signature": "U9Ge4JnnXGuEGY5CEQUT9OG3z+w+QqhUn64ro2MNhh2LsUHASSHmC6hSNXS6wxenniW+L/6+1uwtOz23j+keAQ==",
-    "sha384": "400b629124fc227aaefe3b83e886c836412bfab5cd264f631f58553580109626e54e0fe378d54c0c20137b5c7da3a409",
+    "version": "1.0.1",
+    "package": "https://github.com/divanasi/fk-grafik-designer/releases/download/v1.0.1/fk-grafik-designer.zip",
+    "signature": "Y1Z4EDVBLK1yzs7YbfZl2ASNJmRSs/07kv5ub6ITjYuVdYiAYBjFw5CkhLudI/5VuUpzyTfrZbPXpfeBCHw0DA==",
+    "sha384": "b113ef5f45b01e820ffa1c1e0df7c17ffebb85bb1db63cb95ec57e7dca12f86ddec458dfc144b6c7e73e3b04217393c2",
     "requires": "6.4",
     "requires_php": "8.0",
     "tested": "7.1",
-    "changelog": "1.0.0\n- Erste Version als FK Grafik-Designer: White Label, übersetzbar, Farben «Dezent», «Vom Theme übernehmen» oder «Eigene Farbe», signierte Updates.",
+    "changelog": "1.0.1\n- Herstellerhinweis klein unten links auf der Arbeitsfläche statt unter dem Bestellknopf.\n- Proxy-Hinweis im Backend nur noch, wenn PHP die Besucheradresse wirklich nicht sieht.\n\n1.0.0\n- Erste Version als FK Grafik-Designer: White Label, übersetzbar, Farben «Dezent», «Vom Theme übernehmen» oder «Eigene Farbe», signierte Updates.",
     "released": "2026-11-25"
 }
