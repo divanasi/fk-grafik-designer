@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "package": "https://github.com/divanasi/fk-grafik-designer/releases/download/v1.0.0/fk-grafik-designer.zip",
+    "signature": "nAsC1YYQTa/hcUvdY3tBdyjLtoz6HIRuNjPhzn/fesjNaOsmzXTWGCBW/atk0tYMMkbWA42shZrru9FCP4+4Bw==",
+    "sha384": "8d29414303e33c0b9c1949c9a94bd9a8fac0817618a316ce489b7d6fa73371ed6680dbdde5f127fe09dbee14780537ad",
+    "requires": "6.4",
+    "requires_php": "8.0",
+    "tested": "7.1",
+    "changelog": "1.0.0\n- Erste Version als FK Grafik-Designer: White Label, übersetzbar, Farben «Dezent», «Vom Theme übernehmen» oder «Eigene Farbe», signierte Updates.",
+    "released": "2026-11-25"
+}
