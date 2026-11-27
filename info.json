@@ -1,11 +1,11 @@
 {
-    "version": "1.0.2",
-    "package": "https://github.com/divanasi/fk-grafik-designer/releases/download/v1.0.2/fk-grafik-designer.zip",
-    "signature": "GjSvuLfSAR2qduiyLcu+jZNIVSIzpobwqz0lJRK4ugb1rj3Sk1VmiPQcrIVlbwq/j/WVgXHRorWC+oPN9SNZBw==",
-    "sha384": "2cfacfb99ac96c0cfd6abd75b34fe97ace6bcc4f7bbbb57974af586886c1fb674acedea57a5d929887d3d365bbf36811",
+    "version": "1.0.3",
+    "package": "https://github.com/divanasi/fk-grafik-designer/releases/download/v1.0.3/fk-grafik-designer.zip",
+    "signature": "gmd0XcH7dZliDUPphSYqL0D3ZOwxRyZYpXmzoVWqbMX7uyrfq7to79aSamIqjUN4uUJPcOH+AyvTp4pt6eIdAw==",
+    "sha384": "81cadf7c30a1e62f2b9dab39e7c95cd3997254d9c7105ea6605980d671dd3c06bfff69e4070e85b3a7d6855b67820cf1",
     "requires": "6.4",
     "requires_php": "8.0",
     "tested": "7.1",
-    "changelog": "1.0.2\n- Druckdateien gehen nicht mehr als Anhang per Mail: «Neue Bestellung» bzw. der Druckauftrag enthalten pro Grafik einen geheimen Download-Link (ohne Login, gültig solange die Datei aufbewahrt wird). Der Druckauftrag kommt als eine Mail statt einer pro Grafik.\n- Mails an die Produktion in der Sprache des Shops und mit dem Absender der WooCommerce-Mails.\n- «Erneut prüfen» unter Aktualisierungen zeigt neue Versionen sofort.\n- Handy quer: Arbeitsfläche und Einstellungen nebeneinander.\n- Backend: Dateiname der Druckdatei mit der richtigen Position.\n- Proxy-Hinweis: Adressen in IPv6-Schreibweise (::ffff:…) werden wie IPv4 geprüft.\n\n1.0.1\n- Herstellerhinweis klein unten links auf der Arbeitsfläche statt unter dem Bestellknopf.\n- Proxy-Hinweis im Backend nur noch, wenn PHP die Besucheradresse wirklich nicht sieht.\n\n1.0.0\n- Erste Version als FK Grafik-Designer: White Label, übersetzbar, Farben «Dezent», «Vom Theme übernehmen» oder «Eigene Farbe», signierte Updates.",
+    "changelog": "1.0.3\n- Sechs neue Schriften im Studio (jetzt 10): Hochzeit, Pinselschrift, Handschrift, Klar, Plakativ, Festlich. Alle liegen im Plugin, ohne externe Server.\n- Position des Knopfs «Grafik gestalten» einstellbar: vor oder nach den Produktoptionen oder unter «In den Warenkorb», allgemein (Einstellungen) und pro Produkt. Mit «Nur bei Auswahl» steht er wie bisher direkt unter dieser Auswahl. Standard nach dem Update: «Nach den Produktoptionen» (bei Extra Product Options zwischen den Optionen und dem Total).\n\n1.0.2\n- Druckdateien gehen nicht mehr als Anhang per Mail: «Neue Bestellung» bzw. der Druckauftrag enthalten pro Grafik einen geheimen Download-Link (ohne Login, gültig solange die Datei aufbewahrt wird). Der Druckauftrag kommt als eine Mail statt einer pro Grafik.\n- Mails an die Produktion in der Sprache des Shops und mit dem Absender der WooCommerce-Mails.\n- «Erneut prüfen» unter Aktualisierungen zeigt neue Versionen sofort.\n- Handy quer: Arbeitsfläche und Einstellungen nebeneinander.\n- Backend: Dateiname der Druckdatei mit der richtigen Position.\n- Proxy-Hinweis: Adressen in IPv6-Schreibweise (::ffff:…) werden wie IPv4 geprüft.\n\n1.0.1\n- Herstellerhinweis klein unten links auf der Arbeitsfläche statt unter dem Bestellknopf.\n- Proxy-Hinweis im Backend nur noch, wenn PHP die Besucheradresse wirklich nicht sieht.\n\n1.0.0\n- Erste Version als FK Grafik-Designer: White Label, übersetzbar, Farben «Dezent», «Vom Theme übernehmen» oder «Eigene Farbe», signierte Updates.",
     "released": "2026-11-27"
 }
