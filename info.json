@@ -1,11 +1,11 @@
 {
-    "version": "1.0.1",
-    "package": "https://github.com/divanasi/fk-grafik-designer/releases/download/v1.0.1/fk-grafik-designer.zip",
-    "signature": "Y1Z4EDVBLK1yzs7YbfZl2ASNJmRSs/07kv5ub6ITjYuVdYiAYBjFw5CkhLudI/5VuUpzyTfrZbPXpfeBCHw0DA==",
-    "sha384": "b113ef5f45b01e820ffa1c1e0df7c17ffebb85bb1db63cb95ec57e7dca12f86ddec458dfc144b6c7e73e3b04217393c2",
+    "version": "1.0.2",
+    "package": "https://github.com/divanasi/fk-grafik-designer/releases/download/v1.0.2/fk-grafik-designer.zip",
+    "signature": "GjSvuLfSAR2qduiyLcu+jZNIVSIzpobwqz0lJRK4ugb1rj3Sk1VmiPQcrIVlbwq/j/WVgXHRorWC+oPN9SNZBw==",
+    "sha384": "2cfacfb99ac96c0cfd6abd75b34fe97ace6bcc4f7bbbb57974af586886c1fb674acedea57a5d929887d3d365bbf36811",
     "requires": "6.4",
     "requires_php": "8.0",
     "tested": "7.1",
-    "changelog": "1.0.1\n- Herstellerhinweis klein unten links auf der Arbeitsfläche statt unter dem Bestellknopf.\n- Proxy-Hinweis im Backend nur noch, wenn PHP die Besucheradresse wirklich nicht sieht.\n\n1.0.0\n- Erste Version als FK Grafik-Designer: White Label, übersetzbar, Farben «Dezent», «Vom Theme übernehmen» oder «Eigene Farbe», signierte Updates.",
-    "released": "2026-11-25"
+    "changelog": "1.0.2\n- Druckdateien gehen nicht mehr als Anhang per Mail: «Neue Bestellung» bzw. der Druckauftrag enthalten pro Grafik einen geheimen Download-Link (ohne Login, gültig solange die Datei aufbewahrt wird). Der Druckauftrag kommt als eine Mail statt einer pro Grafik.\n- Mails an die Produktion in der Sprache des Shops und mit dem Absender der WooCommerce-Mails.\n- «Erneut prüfen» unter Aktualisierungen zeigt neue Versionen sofort.\n- Handy quer: Arbeitsfläche und Einstellungen nebeneinander.\n- Backend: Dateiname der Druckdatei mit der richtigen Position.\n- Proxy-Hinweis: Adressen in IPv6-Schreibweise (::ffff:…) werden wie IPv4 geprüft.\n\n1.0.1\n- Herstellerhinweis klein unten links auf der Arbeitsfläche statt unter dem Bestellknopf.\n- Proxy-Hinweis im Backend nur noch, wenn PHP die Besucheradresse wirklich nicht sieht.\n\n1.0.0\n- Erste Version als FK Grafik-Designer: White Label, übersetzbar, Farben «Dezent», «Vom Theme übernehmen» oder «Eigene Farbe», signierte Updates.",
+    "released": "2026-11-27"
 }
